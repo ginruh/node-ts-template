@@ -1,4 +1,4 @@
-# node-typescript
+# node-ts-template
 
 ### About
 
